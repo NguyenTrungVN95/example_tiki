@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">exam_nguyentrung</string>
+    <string name="L001">xiaomi</string>
+    <string name="L002">bitis hunter</string>
+    <string name="L003">bts</string>
+    <string name="L004">balo</string>
+    <string name="L005">bitis hunter x</string>
+    <string name="L006">tai nghe</string>
+    <string name="L007">harry potter</string>
+    <string name="L008">anker</string>
+    <string name="L009">iphone</string>
+    <string name="L010">balo nữ</string>
+    <string name="L011">nguyễn nhật ánh</string>
+    <string name="L012">đắc nhân tâm</string>
+    <string name="L013">ipad</string>
+    <string name="L014">senka</string>
+    <string name="L015">tai nghe bluetooth</string>
+    <string name="L016">son</string>
+    <string name="L017">maybelline</string>
+    <string name="L018">laneige</string>
+    <string name="L019">kem chống nắng</string>
+    <string name="L020">anh chính là thanh xuân của em</string>
+
+    <string-array name="keywords">
+        <item>@string/L001</item>
+        <item>@string/L002</item>
+        <item>@string/L003</item>
+        <item>@string/L004</item>
+        <item>@string/L005</item>
+        <item>@string/L006</item>
+        <item>@string/L007</item>
+        <item>@string/L008</item>
+        <item>@string/L009</item>
+        <item>@string/L010</item>
+        <item>@string/L011</item>
+        <item>@string/L012</item>
+        <item>@string/L013</item>
+        <item>@string/L014</item>
+        <item>@string/L015</item>
+        <item>@string/L016</item>
+        <item>@string/L017</item>
+        <item>@string/L018</item>
+        <item>@string/L019</item>
+        <item>@string/L020</item>
+    </string-array>
+</resources>
