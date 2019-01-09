@@ -20,6 +20,7 @@
     <string name="L018">laneige</string>
     <string name="L019">kem chống nắng</string>
     <string name="L020">anh chính là thanh xuân của em</string>
+    <string name="key_hot">Từ khóa hot</string>
 
     <string-array name="keywords">
         <item>@string/L001</item>
